@@ -1,7 +1,7 @@
 # Effects-of-economic-freedom-in-the-world.pbix
 In this project we observe the relationship between the economic freedom of each country and quality of life,
 for that, I calculated the average economic freedom of each country from 1980 to 2020, and graphed the correlation between human development, GDP per capita and inequality,
-based on the data provided by the heritage foundation(economic freedom of each country and each year), the world bank(gdp per capita), UNDP (human development index), gini index (income inequality) 
+based on the data provided by the fraser institute(economic freedom of each country and each year), the world bank(gdp per capita), UNDP (human development index), gini index (income inequality) 
 
 To average each country over the years, create a database with each country, year, and freedom points.
 because in the pdf the data was presented in a way that could not be transformed into tables, so
