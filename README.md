@@ -20,7 +20,8 @@ I developed a database in SQL with exactly the same data in tables
 
 
 
-##Sources:
+##Sources
+
 https://www.fraserinstitute.org/sites/default/files/economic-freedom-of-the-world-2022.pdf
 https://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_por_igualdad_de_ingreso
 https://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_por_%C3%ADndice_de_desarrollo_humano
